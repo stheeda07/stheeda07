@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumanth Theeda
 - 👀 I’m interested in Computational Material Science and Multiphysics
-- 🌱 I’m currently learning git and MOOSE
-- 💞️ I’m looking to collaborate on MOOSE projects
+- 🌱 I’m currently learning git and PRISMS-PF
+- 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me email @sumanth.theeda@utdallas.edu
 
 <!---
